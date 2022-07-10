@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/gsadmin0101/gsadmin0101/main/2000_600px%20(1).gif" alt="gsadmin0101" /> </p>
 # 💫 About Me:
-🌱 I’m currently learning AMAZON EKS<br><br>👨‍💻 All of my projects are available at https://github.com/gsadmin0101<br><br>💬 Ask me about aws, kubernets, docker and etc<br><br>📫 How to reach me gilstelvio1@gmail.com
+🌱 I’m currently learning Amazon EKS<br><br>👨‍💻 All of my projects are available at https://github.com/gsadmin0101<br><br>💬 Ask me about aws, kubernets, docker and etc<br><br>📫 How to reach me gilstelvio1@gmail.com
 
 
 ## 🌐 Socials:
